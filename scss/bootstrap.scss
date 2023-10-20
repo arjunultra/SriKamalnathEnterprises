@@ -1,5 +1,7 @@
 // Font
-$font-family-sans-serif: 'Open Sans', sans-serif;
+$font-family-sans-serif: "Open Sans", sans-serif;
+// Font-size
+$h6-font-size: 0.9rem;
 
 // Colors
 $primary: #c167ef;
@@ -47,4 +49,4 @@ $headings-margin-bottom: $spacer * 1;
 
 $enable-negative-margins: true;
 
-@import '../node_modules/bootstrap/scss/bootstrap';
+@import "../node_modules/bootstrap/scss/bootstrap";
