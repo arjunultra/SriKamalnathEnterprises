@@ -1,6 +1,6 @@
-# Ebook Website
+# Fireworks Website
 
-Bootstrap website for downloading a free E-book. This website has a light, business-oriented design.
+Bootstrap website for downloading Pricelist for fireworks. This website has a light, business-oriented design.
 
 <img src="./images/screen.png"  />
 
